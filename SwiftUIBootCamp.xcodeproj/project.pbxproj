@@ -7,15 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A90DB8B02636913600094F1A /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A90DB8AF2636913600094F1A /* PaddingBootcamp.swift */; };
+		A90DB8B32636915000094F1A /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A90DB8B22636915000094F1A /* SpacerBootcamp.swift */; };
 		A93F9F6B261D89C600BD99BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93F9F6A261D89C600BD99BD /* AppDelegate.swift */; };
 		A93F9F6D261D89C600BD99BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93F9F6C261D89C600BD99BD /* SceneDelegate.swift */; };
 		A93F9F6F261D89C600BD99BD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93F9F6E261D89C600BD99BD /* ContentView.swift */; };
 		A93F9F71261D89C900BD99BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A93F9F70261D89C900BD99BD /* Assets.xcassets */; };
 		A93F9F74261D89C900BD99BD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A93F9F73261D89C900BD99BD /* Preview Assets.xcassets */; };
 		A93F9F77261D89C900BD99BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A93F9F75261D89C900BD99BD /* LaunchScreen.storyboard */; };
+		A93F9F80261D8A4100BD99BD /* Teks.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93F9F7F261D8A4100BD99BD /* Teks.swift */; };
+		A9426A1F261EDB3000A3DFA7 /* Bentuk.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9426A1E261EDB3000A3DFA7 /* Bentuk.swift */; };
+		A9751047262D56F300D2FF32 /* Warna.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9751046262D56F300D2FF32 /* Warna.swift */; };
+		A9928B2626329BEB0083E1BF /* Tumpukan.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9928B2526329BEB0083E1BF /* Tumpukan.swift */; };
+		A9B2CE72263148E10083AB99 /* Gradasi.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9B2CE71263148E10083AB99 /* Gradasi.swift */; };
+		A9B2CE75263148F30083AB99 /* Bingkai.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9B2CE74263148F30083AB99 /* Bingkai.swift */; };
+		A9B2CE792631490F0083AB99 /* BackgroundDanOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9B2CE782631490F0083AB99 /* BackgroundDanOverlay.swift */; };
+		A9EFA238262FF90500C36B41 /* Lambang.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EFA237262FF90500C36B41 /* Lambang.swift */; };
+		A9EFA23C262FFB5D00C36B41 /* Gambar.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EFA23B262FFB5D00C36B41 /* Gambar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A90DB8AF2636913600094F1A /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
+		A90DB8B22636915000094F1A /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		A93F9F67261D89C600BD99BD /* SwiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A93F9F6A261D89C600BD99BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A93F9F6C261D89C600BD99BD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +37,15 @@
 		A93F9F73261D89C900BD99BD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A93F9F76261D89C900BD99BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A93F9F78261D89C900BD99BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A93F9F7F261D8A4100BD99BD /* Teks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teks.swift; sourceTree = "<group>"; };
+		A9426A1E261EDB3000A3DFA7 /* Bentuk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bentuk.swift; sourceTree = "<group>"; };
+		A9751046262D56F300D2FF32 /* Warna.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Warna.swift; sourceTree = "<group>"; };
+		A9928B2526329BEB0083E1BF /* Tumpukan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tumpukan.swift; sourceTree = "<group>"; };
+		A9B2CE71263148E10083AB99 /* Gradasi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradasi.swift; sourceTree = "<group>"; };
+		A9B2CE74263148F30083AB99 /* Bingkai.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bingkai.swift; sourceTree = "<group>"; };
+		A9B2CE782631490F0083AB99 /* BackgroundDanOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundDanOverlay.swift; sourceTree = "<group>"; };
+		A9EFA237262FF90500C36B41 /* Lambang.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lambang.swift; sourceTree = "<group>"; };
+		A9EFA23B262FFB5D00C36B41 /* Gambar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gambar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +81,17 @@
 				A93F9F6A261D89C600BD99BD /* AppDelegate.swift */,
 				A93F9F6C261D89C600BD99BD /* SceneDelegate.swift */,
 				A93F9F6E261D89C600BD99BD /* ContentView.swift */,
+				A93F9F7F261D8A4100BD99BD /* Teks.swift */,
+				A9426A1E261EDB3000A3DFA7 /* Bentuk.swift */,
+				A9751046262D56F300D2FF32 /* Warna.swift */,
+				A9EFA237262FF90500C36B41 /* Lambang.swift */,
+				A9EFA23B262FFB5D00C36B41 /* Gambar.swift */,
+				A9B2CE71263148E10083AB99 /* Gradasi.swift */,
+				A9B2CE74263148F30083AB99 /* Bingkai.swift */,
+				A9B2CE782631490F0083AB99 /* BackgroundDanOverlay.swift */,
+				A9928B2526329BEB0083E1BF /* Tumpukan.swift */,
+				A90DB8AF2636913600094F1A /* PaddingBootcamp.swift */,
+				A90DB8B22636915000094F1A /* SpacerBootcamp.swift */,
 				A93F9F70261D89C900BD99BD /* Assets.xcassets */,
 				A93F9F75261D89C900BD99BD /* LaunchScreen.storyboard */,
 				A93F9F78261D89C900BD99BD /* Info.plist */,
@@ -145,9 +178,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A93F9F80261D8A4100BD99BD /* Teks.swift in Sources */,
+				A9EFA23C262FFB5D00C36B41 /* Gambar.swift in Sources */,
 				A93F9F6B261D89C600BD99BD /* AppDelegate.swift in Sources */,
+				A9B2CE75263148F30083AB99 /* Bingkai.swift in Sources */,
+				A90DB8B32636915000094F1A /* SpacerBootcamp.swift in Sources */,
+				A9EFA238262FF90500C36B41 /* Lambang.swift in Sources */,
+				A9426A1F261EDB3000A3DFA7 /* Bentuk.swift in Sources */,
+				A9751047262D56F300D2FF32 /* Warna.swift in Sources */,
+				A9B2CE72263148E10083AB99 /* Gradasi.swift in Sources */,
 				A93F9F6D261D89C600BD99BD /* SceneDelegate.swift in Sources */,
+				A9B2CE792631490F0083AB99 /* BackgroundDanOverlay.swift in Sources */,
+				A9928B2626329BEB0083E1BF /* Tumpukan.swift in Sources */,
 				A93F9F6F261D89C600BD99BD /* ContentView.swift in Sources */,
+				A90DB8B02636913600094F1A /* PaddingBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
